@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [http://github.com/gidi-babz](http://gitHub.com/gidi-babz)
 
-- 💬 Ask me about **JavaScript,Html,Css**
+- 💬 Ask me about **JavaScript, HTML5,CSS3, and React**
 
 - 📫 How to reach me **tunex4ind@gmail.com**
 

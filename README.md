@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on React Projects. [Expense tracker](gitHub.com/gidi-babz/Expense-Tracker-App)
 
-- 👨‍💻 All of my projects are available at [http://gitHub.com/gidi-babz](http://gitHub.com/gidi-babz)
+- 👨‍💻 All of my projects are available at [http://github.com/gidi-babz](http://gitHub.com/gidi-babz)
 
 - 💬 Ask me about **JavaScript,Html,Css**
 

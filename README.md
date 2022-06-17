@@ -51,6 +51,10 @@
       </td>
     </tr>
     <tr valign="top">
+      <td width="25%" align="center">
+        <span><strong>Typescript</strong></span><br><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png">
+      </td>
        <td width="25%" align="center">
         <span><strong>NodeJs</strong></span><br><br><br>
         <img height="64px" src="https://img.icons8.com/color/2x/nodejs.png">

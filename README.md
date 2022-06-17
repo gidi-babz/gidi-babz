@@ -9,7 +9,7 @@
 - 😄 Pronouns: He/Him
 - ⚡️ Fun fact: There's a fruit that tastes like chocolate pudding.
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+## 𝗠𝘆 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸
 
 <table>
   <tbody>

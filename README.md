@@ -27,11 +27,19 @@
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png">
       </td>
       <td width="25%" align="center">
-        <span><strong>JAVASCRIPT</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+        <span><strong>Sass </strong></span><br><br><br>
+        <img height="64px" src="https://ivazz.com/wp-content/uploads/2021/05/sass-1.png">
       </td>
     </tr>
     <tr valign="top">
+      <td width="25%" align="center">
+        <span><strong>Tailwind </strong></span><br><br><br>
+        <img height="64px" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/y9jbquchakdius6cs8ws">
+      </td>
+       <td width="25%" align="center">
+        <span><strong>JAVASCRIPT</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+      </td>
       <td width="25%" align="center">
         <span><strong>React</strong>
         </span><br><br><br>
@@ -41,7 +49,9 @@
         <span><strong>Next.js</strong></span><br><br><br>
         <img height="64px" src="https://decodenatura.com/static/fb8aa1bb70c9925ce1ae22dc2711b343/nextjs-logo.png">
       </td>
-      <td width="25%" align="center">
+    </tr>
+    <tr valign="top">
+       <td width="25%" align="center">
         <span><strong>NodeJs</strong></span><br><br><br>
         <img height="64px" src="https://img.icons8.com/color/2x/nodejs.png">
       </td>
@@ -49,15 +59,9 @@
         <span><strong>Express JS</strong></span><br><br><br>
         <img height="64px" src="https://i.morioh.com/8c8203b86e.png">
       </td>
-    </tr>
-    <tr valign="top">
       <td width="25%" align="center">
         <span><strong>MongoDB</strong></span><br><br><br>
         <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRvk27FJ7keQnZLcglO7LP8Bo8HdNikQMeSNQ&usqp=CAU">
-      </td>
-            <td width="25%" align="center">
-        <span><strong>Tailwind </strong></span><br><br><br>
-        <img height="64px" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/y9jbquchakdius6cs8ws">
       </td>
     </tr>
   </tbody>

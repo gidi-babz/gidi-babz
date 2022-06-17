@@ -38,7 +38,7 @@
         <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
       </td>
        <td width="25%" align="center">
-        <span><strong>Next</strong></span><br><br><br>
+        <span><strong>Next.js</strong></span><br><br><br>
         <img height="64px" src="https://decodenatura.com/static/fb8aa1bb70c9925ce1ae22dc2711b343/nextjs-logo.png">
       </td>
       <td width="25%" align="center">

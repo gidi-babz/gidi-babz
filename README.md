@@ -5,7 +5,7 @@
 - 🌱 I'm currently learning Front-End Web Development (HTML, CSS, JavaScript and React)
 - 👯 I’m looking to collaborate on JavaScript, React Projects
 - 💬 Ask me about Software Development
-- 📫 How to reach me: [Twitter](https://twitter.com/gidi_babz), [Linkedin](https://www.linkedin.com/in/babatunde-gideon-92b8b360)
+- 📫 How to reach me: [Twitter](https://twitter.com/gidi_babz), [Linkedin](https://www.linkedin.com/in/babatunde-olowoyeye)
 - 😄 Pronouns: He/Him
 - ⚡️ Fun fact: There's a fruit that tastes like chocolate pudding.
 

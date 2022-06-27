@@ -64,8 +64,8 @@
         <img height="64px" src="https://i.morioh.com/8c8203b86e.png">
       </td>
       <td width="25%" align="center">
-        <span><strong>MongoDB</strong></span><br><br><br>
-        <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRvk27FJ7keQnZLcglO7LP8Bo8HdNikQMeSNQ&usqp=CAU">
+        <span><strong>Rect Bootstrap</strong></span><br><br><br>
+        <img height="64px" src="https://mpng.subpng.com/20180531/sas/kisspng-bootstrap-react-software-framework-javascript-fron-5b0f9b1ab26fd7.9058729715277494027309.jpg">
       </td>
     </tr>
   </tbody>

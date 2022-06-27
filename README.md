@@ -57,7 +57,7 @@
       </td>
        <td width="25%" align="center">
         <span><strong>Material UI</strong></span><br><br><br>
-        <img height="64px" src="https://cdn-media-1.freecodecamp.org/images/1*FDNeKIUeUnf0XdqHmi7nsw.png">
+        <img height="64px" src="https://v4.mui.com/static/logo.png">
       </td>
       <td width="25%" align="center">
         <span><strong>Express JS</strong></span><br><br><br>

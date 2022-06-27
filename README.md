@@ -60,8 +60,8 @@
         <img height="64px" src="https://v4.mui.com/static/logo.png">
       </td>
       <td width="25%" align="center">
-        <span><strong>Express JS</strong></span><br><br><br>
-        <img height="64px" src="https://i.morioh.com/8c8203b86e.png">
+        <span><strong>Git</strong></span><br><br><br>
+        <img height="64px" src="https://initialcommit.com/img/initialcommit/baby-git-release.png">
       </td>
       <td width="25%" align="center">
         <span><strong>Rect Bootstrap</strong></span><br><br><br>

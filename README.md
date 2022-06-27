@@ -33,8 +33,8 @@
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span><strong>Tailwind </strong></span><br><br><br>
-        <img height="64px" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/y9jbquchakdius6cs8ws">
+        <span><strong>Redux </strong></span><br><br><br>
+        <img height="64px" src="https://cms-assets.tutsplus.com/uploads/users/1795/posts/30350/preview_image/ReduxLogo.jpg">
       </td>
        <td width="25%" align="center">
         <span><strong>JAVASCRIPT</strong></span><br><br><br>

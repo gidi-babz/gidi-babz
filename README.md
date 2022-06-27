@@ -64,7 +64,7 @@
         <img height="64px" src="https://initialcommit.com/img/initialcommit/baby-git-release.png">
       </td>
       <td width="25%" align="center">
-        <span><strong>Rect Bootstrap</strong></span><br><br><br>
+        <span><strong>React Bootstrap</strong></span><br><br><br>
         <img height="64px" src="https://mpng.subpng.com/20180531/sas/kisspng-bootstrap-react-software-framework-javascript-fron-5b0f9b1ab26fd7.9058729715277494027309.jpg">
       </td>
     </tr>

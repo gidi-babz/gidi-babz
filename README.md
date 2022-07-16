@@ -56,7 +56,7 @@
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png">
       </td>
        <td width="25%" align="center">
-        <span><strong>Material UI</strong></span><br><br><br>
+        <span><strong>MUI</strong></span><br><br><br>
         <img height="64px" src="https://v4.mui.com/static/logo.png">
       </td>
       <td width="25%" align="center">
